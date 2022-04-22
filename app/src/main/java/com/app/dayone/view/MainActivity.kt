@@ -1,7 +1,8 @@
-package com.app.dayone
+package com.app.dayone.view
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.app.dayone.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
